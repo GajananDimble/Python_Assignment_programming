@@ -1,0 +1,11 @@
+
+Cleanup Scan Initiated At :24-07-2026 06:44:11 PM
+[DELETED] Empty File: TestFolder\Drop.txt
+Total empty files removed :1
+
+Cleanup Scan Initiated At :24-07-2026 06:44:21 PM
+Total empty files removed :0
+
+Cleanup Scan Initiated At :24-07-2026 07:07:36 PM
+[DELETED] Empty File: TestFolder\Empty.txt
+Total empty files removed :1
